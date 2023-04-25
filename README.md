@@ -35,8 +35,6 @@
 
 # 📖 [Math-Magician]
 
-> Describe your project in 1 or 2 sentences.
-
 **[Math Magician]** 
 -This project is math magician for calculating figures
 
@@ -46,15 +44,11 @@
 
 ### Key Features
 
-> Describe between 1-3 key features of the application.
-
 - **[key_feature_1]**
  - Perform mathematical operations.
 
 
-## 💻 Getting Started 
-
-> Describe how a new developer could make use of your project.
+## 💻 Getting Started
 
 
 To get a local copy up and running, follow these steps.
