@@ -44,7 +44,6 @@
 
 ### Key Features
 
-- **[key_feature_1]**
  - Perform mathematical operations.
 
 
@@ -101,14 +100,11 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project you can support me both financially and recommend the project to other users
 
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
+## 🙏 Acknowledgments <a name="acknowledgements">
 
 I would like to give thanks to Microverse
 
