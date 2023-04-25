@@ -32,11 +32,8 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Math-Magician]
-
-> Describe your project in 1 or 2 sentences.
 
 **[Math Magician]** 
 -This project is math magician for calculating figures
@@ -44,21 +41,13 @@
 ## 🛠 Built With
 -React
 
-<!-- Features -->
 
 ### Key Features
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
  - Perform mathematical operations.
 
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started 
-
-> Describe how a new developer could make use of your project.
+## 💻 Getting Started
 
 
 To get a local copy up and running, follow these steps.
@@ -91,7 +80,6 @@ To run the project, execute the following command:
 - Run `cd math-magic`
 - Run `npm install`
 
-<!-- AUTHORS -->
 
 👤 **Author1**
 
@@ -103,8 +91,6 @@ To run the project, execute the following command:
 - Have more pages
 
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -112,25 +98,16 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to give thanks to Microverse.
+If you like this project you can support me both financially and recommend the project to other users
 
 
+## 🙏 Acknowledgments <a name="acknowledgements">
 
-<!-- LICENSE -->
+I would like to give thanks to Microverse
+
 
 ## 📝 License <a name="license"></a>
 
