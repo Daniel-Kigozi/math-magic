@@ -32,7 +32,6 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Math-Magician]
 
@@ -44,7 +43,6 @@
 ## 🛠 Built With
 -React
 
-<!-- Features -->
 
 ### Key Features
 
@@ -53,8 +51,6 @@
 - **[key_feature_1]**
  - Perform mathematical operations.
 
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started 
 
@@ -91,7 +87,6 @@ To run the project, execute the following command:
 - Run `cd math-magic`
 - Run `npm install`
 
-<!-- AUTHORS -->
 
 👤 **Author1**
 
@@ -103,8 +98,6 @@ To run the project, execute the following command:
 - Have more pages
 
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -112,25 +105,19 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
 
 If you like this project...
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to give thanks to Microverse.
+I would like to give thanks to Microverse
 
-
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
