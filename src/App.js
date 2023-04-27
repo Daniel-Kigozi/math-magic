@@ -1,12 +1,24 @@
+import React, { useState } from 'react';
 import Calculator from './components/calculator';
+import calculate from './logic/calculate';
 import './App.css';
 
-function App() {
+const App = () => {
+  const [state, setState] = useState({
+    total: 0,
+    next: 0,
+  });
+  const handleClick = (e) => {
+    setState((old) => calculate(old, e.target.innerText));
+  };
+
+  const { total, next } = state;
+  const calc = { total, next };
   return (
     <div className="App">
-      <Calculator />
+      <Calculator handleClick={handleClick} calc={calc} />
     </div>
   );
-}
+};
 
 export default App;
