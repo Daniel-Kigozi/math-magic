@@ -1,0 +1,16 @@
+.myQuotation {
+    width: 80%;
+    margin: 20px;
+  }
+  
+  .quotes,
+  .authorQuotes {
+    text-align: left;
+    font-style: italic;
+    color: #373636;
+  }
+  
+  .my-author {
+    font-weight: 1000;
+  }
+  
