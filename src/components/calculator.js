@@ -1,4 +1,3 @@
-import React from 'react';
 import './calculator.css';
 import '../logic/operate';
 import '../logic/calculate';
